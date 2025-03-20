@@ -1,5 +1,5 @@
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 from pymongo import MongoClient
 
 # Example: Load data from AWS S3 (simulation)
