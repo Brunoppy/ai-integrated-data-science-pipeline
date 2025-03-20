@@ -1,4 +1,4 @@
--- Create a PostgreSQL table for processed analytics results
+-- Create a PostgreSQL table for processed analytics results 
 CREATE TABLE IF NOT EXISTS analytics_results (
     id SERIAL PRIMARY KEY,
     dataset_name VARCHAR(255),
